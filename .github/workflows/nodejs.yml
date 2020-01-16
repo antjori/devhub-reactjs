@@ -1,4 +1,4 @@
-name: Node CI
+name: react-complete-guide
 
 on: [push]
 
