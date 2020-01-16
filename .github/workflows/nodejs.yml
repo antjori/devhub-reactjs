@@ -17,7 +17,26 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: npm install, build, and test
+    - name: react-the-complete-guide/assignments/assignment1 - npm install, build, and test
+      working-directory: ./react-the-complete-guide/assignments/assignment1
+      run: |
+        npm ci
+        npm run build --if-present
+        npm test
+    - name: react-the-complete-guide/assignments/assignment2 - npm install, build, and test
+      working-directory: ./react-the-complete-guide/assignments/assignment2
+      run: |
+        npm ci
+        npm run build --if-present
+        npm test
+    - name: react-the-complete-guide/burger-builder - npm install, build, and test
+      working-directory: ./react-the-complete-guide/burger-builder
+      run: |
+        npm ci
+        npm run build --if-present
+        npm test
+    - name: react-the-complete-guide/example - npm install, build, and test
+      working-directory: ./react-the-complete-guide/example
       run: |
         npm ci
         npm run build --if-present
