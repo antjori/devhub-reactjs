@@ -2,6 +2,7 @@
 
 The repository for all ReactJS related projects.
 
-[![Actions Status](https://github.com/antjori/devhub-reactjs/workflows/rg/badge.svg)](https://github.com/antjori/devhub-reactjs/actions)
+- ![](https://github.com/antjori/devhub-reactjs/workflows/rg/badge.svg): a React & Java application built with Gradle
 
-[![Actions Status](https://github.com/antjori/devhub-reactjs/workflows/react-complete-guide/badge.svg)](https://github.com/antjori/devhub-reactjs/actions)
+- react-the-complete-guide
+  -- ![](https://github.com/antjori/devhub-reactjs/workflows/assignment1/badge.svg): Udemy's "React - The Complete Guide" first assignment
