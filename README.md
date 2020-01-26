@@ -9,3 +9,4 @@ The repository for all ReactJS related projects.
   - ![](https://github.com/antjori/devhub-reactjs/workflows/assignment1/badge.svg): Udemy's "React - The Complete Guide" first assignment
   - ![](https://github.com/antjori/devhub-reactjs/workflows/assignment2/badge.svg): Udemy's "React - The Complete Guide" second assignment
   - ![](https://github.com/antjori/devhub-reactjs/workflows/burger-builder/badge.svg): Udemy's "React - The Complete Guide" Burger Builder
+  - ![](https://github.com/antjori/devhub-reactjs/workflows/example/badge.svg): Udemy's "React - The Complete Guide" Example
