@@ -14,7 +14,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "sass": "^1.24.5",
     "typescript": "^2.9.2"
   },
